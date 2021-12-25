@@ -14,6 +14,36 @@
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
 - 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/">My portfolio </a>
 
+## 👨‍💻 Technical Skills:
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+              <img alt="Html 5" title="Html 5" height="28px" src="./assets/html5.png" />
+            </td>
+            <td>
+              <img alt="Css 3" title="Css 3" height="28px" src="./assets/css3.png" />
+            </td>
+            <td>
+              <img alt="Sass" title="Sass" height="28px" src="./assets/sass.png" />
+            </td>
+            <td>
+              <img alt="javascript" title="javascript" height="28px" src="./assets/javascript.png" />
+            </td>
+            <td>
+              <img alt="React" title="React" height="28px" src="./assets/react.png" />
+            </td>
+            <td>
+              <img alt="Node" title="Node" height="28px" src="./assets/node.png" />
+            </td>
+            <td>
+              <img alt="Php" title="Php" height="28px" src="./assets/php.png" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <!--
 **Randy-RM/Randy-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
