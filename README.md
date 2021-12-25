@@ -14,6 +14,14 @@
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
 - 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/" target="_blank">My portfolio </a>
 
+## 🙋‍♂️ Follow me on :
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+</p>
+
 ## 👨‍💻 Technical Skills:
 
 <table>
