@@ -6,6 +6,8 @@
 
 <h1 align="center"> Randy Assani Beni Muhema <a href="https://portfolio-assani-beni-randy.netlify.app/">( Randy-RM )</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
+---
+
 ## 📖 About me
 
 - 😄 I'm a Design Analyst, FullStack Developer & Graphic Designer 
@@ -14,6 +16,8 @@
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
 - 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/" target="_blank">My portfolio </a>
 
+---
+
 ## 🙋‍♂️ Follow me on :
 
 <p align="left">
@@ -21,6 +25,8 @@
 <a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 </p>
+
+---
 
 ## 👨‍💻 Technical Skills:
 
@@ -51,6 +57,8 @@
         </tr>
     </tbody>
 </table>
+
+---
 
 ## 📈 Github Stats
 
