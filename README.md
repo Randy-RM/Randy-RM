@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-- 💻 I'm a Design Analyst, FullStack Developer & Graphic Designer 
+- 😄 I'm a Design Analyst, FullStack Developer & Graphic Designer 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
@@ -62,7 +62,7 @@
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>⚡ Most used languages</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&layout=compact#" /></a>
   <br/>
