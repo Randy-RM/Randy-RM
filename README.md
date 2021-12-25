@@ -12,7 +12,7 @@
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-- 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/">My portfolio </a>
+- 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/" target="_blank">My portfolio </a>
 
 ## 👨‍💻 Technical Skills:
 
