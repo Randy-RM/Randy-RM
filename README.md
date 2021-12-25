@@ -20,7 +20,7 @@
 
 ## 🔥 My contribution sequence
 
-<p align="center">
+<p>
   <a href="https://github.com/Randy-RM/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM#version3"/>
   </a>
