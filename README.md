@@ -44,6 +44,15 @@
     </tbody>
 </table>
 
+## 📈 Github Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=" /></a>
+</details>
+
 <!--
 **Randy-RM/Randy-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
