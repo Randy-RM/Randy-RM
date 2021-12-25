@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-- 💻 I'm a full stack developer 
+- 💻 I'm a Design Analyst, FullStack Developer & Graphic Designer 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
