@@ -6,6 +6,14 @@
   <a href="https://github.com/Randy-RM"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
+## 📖 About me
+
+- 💻 I'm a full stack developer 
+- 🎨 I design and develop all types of applications (web, mobile and desktop)
+- 📱 Time Management and Agile Project Management(scrum && Kanban)
+- 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
+- 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/">My portfolio </a>
+
 <!--
 **Randy-RM/Randy-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
