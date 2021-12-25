@@ -1,4 +1,4 @@
-### Hi there 👋
+![Repository Banner](./assets/undraw_programming_re_kg9v.svg)
 
 <!--
 **Randy-RM/Randy-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
