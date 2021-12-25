@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hey There <img src="./assets/rocket.gif" height="10%"> Welcome To My GitHub<img src="./assets/rocket.gif" height="10%"></h1>
+    <h1>Hey There <img src="./assets/rocket.gif" height="2%"> Welcome To My GitHub<img src="./assets/rocket.gif" height="2%"></h1>
 </div>
 
 <hr>
