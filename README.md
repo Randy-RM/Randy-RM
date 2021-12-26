@@ -57,13 +57,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-    [![Randy Assani Beni's github stats](https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&theme=radical)](https://github.com/Randy-RM/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=&theme=radical" /></a>
 </details>
 
 <details> 
   <summary>⚡ Most used languages</summary>
   <br/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&show_icons=true&theme=radical&layout=compact)](https://github.com/Randy-RM/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&layout=compact#&theme=radical" /></a>
   <br/>
   <b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
 </details>
