@@ -2,7 +2,7 @@
     <h2><img src="./assets/rocket.gif" width="8%"> Welcome To My GitHub<img src="./assets/rocket.gif" width="8%"></h2>
 </div>
 
-<p align="center"><img width="50%" height="auto" src="./assets/undraw_programming_re_kg9v.svg"/></p>
+<p align="center"><img width="40%" height="auto" src="./assets/undraw_programming_re_kg9v.svg"/></p>
 
 <h1 align="center"> Randy Assani Beni Muhema <a href="https://portfolio-assani-beni-randy.netlify.app/">( Randy-RM )</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
