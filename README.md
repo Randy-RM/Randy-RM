@@ -43,7 +43,7 @@
 ## 👨‍🛠 Tech Stack
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
-- 👨‍💻 &nbsp; Backend : Node js | Laravel | Symfony
+- 👨‍💻 &nbsp; Backend : Node js | Express js | PHP | Laravel | Symfony
 - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React js & Next js | Jquery | SASS
 - 🛢 &nbsp; Database : MySQL | MongoDB
 - 🔧&nbsp; Tools : Git | GitHub
