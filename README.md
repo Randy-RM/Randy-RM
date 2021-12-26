@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://github.com/Randy-RM/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=radical#version3"/>
   </a>
 </p>
 
