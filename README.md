@@ -28,45 +28,26 @@
 
 ---
 
-## 🙋‍♂️ Follow me on :
+## 🙋‍🤝🏻 Connect with Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    
+<a href="mailto:randymuhema@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-randymuhema@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 
 </p>
 
 ---
 
-## 👨‍💻 Technical Skills:
+## 👨‍🛠 Tech Stack
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-              <img alt="Html 5" title="Html 5" height="28px" src="./assets/html5.png" />
-            </td>
-            <td>
-              <img alt="Css 3" title="Css 3" height="28px" src="./assets/css3.png" />
-            </td>
-            <td>
-              <img alt="Sass" title="Sass" height="28px" src="./assets/sass.png" />
-            </td>
-            <td>
-              <img alt="javascript" title="javascript" height="28px" src="./assets/javascript.png" />
-            </td>
-            <td>
-              <img alt="React" title="React" height="28px" src="./assets/react.png" />
-            </td>
-            <td>
-              <img alt="Node" title="Node" height="28px" src="./assets/node.png" />
-            </td>
-            <td>
-              <img alt="Php" title="Php" height="28px" src="./assets/php.png" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+- 💻 &nbsp; Language : JavaScript | PHP | TypeScript
+- 👨‍💻 &nbsp; Backend : Node js | Laravel | Symfony
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React js & Next js | Jquery | SASS
+- 🛢 &nbsp; Database : MySQL | MongoDB
+- 🔧&nbsp; Tools : Git | GitHub
+  <br/>
 
 ---
 
@@ -76,13 +57,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=" /></a>
+    [![Randy Assani Beni's github stats](https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&theme=radical)](https://github.com/Randy-RM/github-readme-stats)
 </details>
 
 <details> 
   <summary>⚡ Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&layout=compact#" /></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&show_icons=true&theme=radical&layout=compact)](https://github.com/Randy-RM/github-readme-stats)
   <br/>
   <b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
 </details>
