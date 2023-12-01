@@ -1,5 +1,5 @@
 <div align="center">
-    <h2><img src="./assets/rocket.gif" width="8%"> Hi ! Welcome To My GitHub <img src="./assets/rocket.gif" width="8%"></h2>
+    <h2><img src="./assets/rocket.gif" width="8%"> Hi ! Welcome To My GitHub Profile <img src="./assets/rocket.gif" width="8%"></h2>
 </div>
 
 <p align="center"><img width="40%" height="auto" src="./assets/undraw_programming_re_kg9v.svg"/></p>
@@ -14,7 +14,7 @@
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-- 🌐 <a href="https://portfolio-assani-beni-randy.netlify.app/" target="_blank">My portfolio </a>
+- 🌐 <a href="https://randyassani.dev/" target="_blank">My portfolio </a>
 
 ---
 
