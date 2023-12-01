@@ -10,6 +10,7 @@
 
 ---
 
+<div>
 ## 📖 About me
 
 - 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
@@ -17,9 +18,11 @@
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
 - 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
+</div>
 
 ---
 
+<div>
 ## 🔥 My contribution sequence
 
 <p>
@@ -27,9 +30,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=radical#version3"/>
   </a>
 </p>
+</div>
 
 ---
 
+<div>
 ## 🙋‍🤝🏻 Connect with Me
 
 <p align="left">
@@ -39,9 +44,11 @@
 <a href="mailto:randymuhema@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-randymuhema@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 
 </p>
+</div>
 
 ---
 
+<div>
 ## 👨‍🛠 Tech Stack
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
@@ -49,19 +56,30 @@
 - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
 - 🛢 &nbsp; Database : MySQL | MongoDB
 - 🔧&nbsp; Tools : Git | GitHub
-  <br/>
+</div>
 
 ---
 
+<div>
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=&theme=radical" /></a>
-</details>
+<div>
+### 📊 GitHub Profile Stats
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=&theme=radical" /></a>
+</div>
 
+<div>
+### ⚡ Most used languages
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&theme=radical&layout=compact#" /></a>
+<br/>
+<b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
+</div>
+</div>
+
+<!--
 <details> 
   <summary>⚡ Most used languages</summary>
   <br/>
@@ -69,6 +87,7 @@
   <br/>
   <b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
 </details>
+-->
 
 <!--
 **Randy-RM/Randy-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
