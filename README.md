@@ -11,7 +11,7 @@
 ---
 
 <div>
-## 📖 About me
+<h2>📖 About me</h2>
 
 - 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
@@ -23,7 +23,7 @@
 ---
 
 <div>
-## 🔥 My contribution sequence
+<h2>🔥 My contribution sequence</h2>
 
 <p>
   <a href="https://github.com/Randy-RM/github-readme-streak-stats">
@@ -35,7 +35,7 @@
 ---
 
 <div>
-## 🙋‍🤝🏻 Connect with Me
+<h2>🙋‍🤝🏻 Connect with Me</h2>
 
 <p align="left">
 
@@ -49,7 +49,7 @@
 ---
 
 <div>
-## 👨‍🛠 Tech Stack
+<h2>👨‍🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
 - 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
@@ -61,17 +61,16 @@
 ---
 
 <div>
-## 📈 Github Stats
-
+<h2>📈 Github Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
-### 📊 GitHub Profile Stats
+<h3>📊 GitHub Profile Stats</h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&hide=&theme=radical" /></a>
 </div>
 
 <div>
-### ⚡ Most used languages
+<h3>⚡ Most used languages</h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&theme=radical&layout=compact#" /></a>
 <br/>
