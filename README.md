@@ -16,7 +16,7 @@
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-- 🌐 <a href="https://randyassani.dev" target="_blank"><strong>My portfolio</strong></a>
+- 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
 
 ---
 
@@ -45,8 +45,8 @@
 ## 👨‍🛠 Tech Stack
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
-- 👨‍💻 &nbsp; Backend : Node js | Express js | PHP | Laravel | Symfony
-- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React js & Next js | Jquery | SASS
+- 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
 - 🛢 &nbsp; Database : MySQL | MongoDB
 - 🔧&nbsp; Tools : Git | GitHub
   <br/>
