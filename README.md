@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
     <h1><img src="./assets/rocket.gif" width="8%"> Randy Assani Beni <img src="./assets/rocket.gif" width="8%"></h1>
 </div>
 
-<p align="center"><img width="40%" height="auto" src="./assets/rm-landing-logo.png"/></p>
+<p align="left"><img width="40%" height="auto" src="./assets/rm-landing-logo.png"/></p>
 
-<h2 align="center"> 
+<h2 align="left"> 
     Hi ! Welcome To My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h2>
 
