@@ -5,14 +5,14 @@
 <p align="center"><img width="40%" height="auto" src="./assets/rm-landing-logo.png"/></p>
 
 <h2 align="center"> 
-    Hi ! Welcome To My GitHub Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Hi ! Welcome To My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h2>
 
 ---
 
 ## 📖 About me
 
-- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, software development, UX/UI design & teaching 
+- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
