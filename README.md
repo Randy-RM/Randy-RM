@@ -1,20 +1,22 @@
 <div align="center">
-    <h2><img src="./assets/rocket.gif" width="8%"> Hi ! Welcome To My GitHub Profile <img src="./assets/rocket.gif" width="8%"></h2>
+    <h1><img src="./assets/rocket.gif" width="8%"> Randy Assani Beni <img src="./assets/rocket.gif" width="8%"></h1>
 </div>
 
-<p align="center"><img width="40%" height="auto" src="./assets/undraw_programming_re_kg9v.svg"/></p>
+<p align="center"><img width="40%" height="auto" src="./assets/rm-landing-logo.png"/></p>
 
-<h1 align="center"> Randy Assani Beni Muhema <a href="https://portfolio-assani-beni-randy.netlify.app/">( Randy-RM )</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h2 align="center"> 
+    Hi ! Welcome To My GitHub Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 ---
 
 ## 📖 About me
 
-- 😄 I'm a Design Analyst, FullStack Developer & Graphic Designer 
+- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, software development, UX/UI design & teaching 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 📱 Time Management and Agile Project Management(scrum && Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-- 🌐 <a href="https://randyassani.dev/" target="_blank">My portfolio </a>
+- 🌐 <a href="https://randyassani.dev" target="_blank"><strong>My portfolio</strong></a>
 
 ---
 
