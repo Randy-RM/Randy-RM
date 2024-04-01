@@ -15,14 +15,13 @@
 ---
 
 <div>
-    <h2>📖 About me</h2>
-    <p>
-        - 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
-        - 🎨 I design and develop all types of applications (web, mobile and desktop)
-        - 📱 Time Management and Agile Project Management(scrum && Kanban)
-        - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-        - 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
-    </p>
+## 📖 About me
+    
+- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
+- 🎨 I design and develop all types of applications (web, mobile and desktop)
+- 📱 Time Management and Agile Project Management(scrum && Kanban)
+- 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
+- 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
 </div>
 
 ---
@@ -51,30 +50,28 @@
 ---
 
 <div>
-<h2>👨‍🛠 Tech Stack</h2>
+## 👨‍🛠 Tech Stack
 
-<p>
-    - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
-    - 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
-    - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
-    - 🛢 &nbsp; Database : MySQL | MongoDB | Postgresql
-    - 🔧&nbsp; Tools : Git | GitHub | Linux | windows
-</p>
+- 💻 &nbsp; Language : JavaScript | PHP | TypeScript
+- 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
+- 🛢 &nbsp; Database : MySQL | MongoDB | Postgresql
+- 🔧&nbsp; Tools : Git | GitHub | Linux | windows
 </div>
 
 ---
 
 <div>
-<h2>📈 Github Stats</h2>
+## 📈 Github Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
-<h3>📊 GitHub Profile Stats</h3>
+### 📊 GitHub Profile Stats
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Randy-RM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide=&count_private=true" /></a>
 </div>
 
 <div>
-<h3>⚡ Most used languages</h3>
+### ⚡ Most used languages
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Randy-RM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&layout=compact" /></a>
 <br/>
