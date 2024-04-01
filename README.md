@@ -19,7 +19,7 @@
     
 - 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
-- 📱 Time Management and Agile Project Management(scrum && Kanban)
+- 🕒 Time Management and Agile Project Management(scrum & Kanban)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
 - 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
 </div>
@@ -62,10 +62,10 @@
 ---
 
 <div>
-<h2>📈 Github Stats</h2>
+<h2>🔆 Github Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
-<h3>📊 GitHub Profile Stats</h3>
+<h3>🚀 GitHub Profile Stats</h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Randy-RM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide=&count_private=true" /></a>
 </div>
