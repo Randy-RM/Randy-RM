@@ -38,7 +38,7 @@
 ---
 
 <div>
-<h2>🙋‍🤝🏻 Connect with Me</h2>
+<h2>🤝 Connect with Me</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -50,7 +50,7 @@
 ---
 
 <div>
-<h2>👨‍🛠 Tech Stack</h2>
+<h2>🧠 Tech Stack</h2>
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
 - 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
