@@ -1,8 +1,12 @@
 <div align="left">
-    <h1><img src="./assets/rocket.gif" width="8%"> Randy Assani Beni <img src="./assets/rocket.gif" width="8%"></h1>
+    <h1>
+        Randy Assani Beni <img src="./assets/rocket.gif" width="8%"> <img src="./assets/rocket.gif" width="8%">
+    </h1>
 </div>
 
-<p align="left"><img width="40%" height="auto" src="./assets/rm-landing-logo.png"/></p>
+<p align="left">
+    <img width="40%" height="auto" src="./assets/rm-landing-logo.png"/>
+</p>
 
 <h2 align="left"> 
     Hi ! Welcome To My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
@@ -11,25 +15,25 @@
 ---
 
 <div>
-<h2>📖 About me</h2>
-
-- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
-- 🎨 I design and develop all types of applications (web, mobile and desktop)
-- 📱 Time Management and Agile Project Management(scrum && Kanban)
-- 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
-- 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
+    <h2>📖 About me</h2>
+    <p>
+        - 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
+        - 🎨 I design and develop all types of applications (web, mobile and desktop)
+        - 📱 Time Management and Agile Project Management(scrum && Kanban)
+        - 🎓 Graduated in Computer Engineering at the University of Kinshasa (UNIKIN 2015)
+        - 🌐 <strong>Visit My Portfolio : <a href="https://randyassani.dev" target="_blank">randyassani.dev</a></strong>
+    </p>
 </div>
 
 ---
 
 <div>
-<h2>🔥 My contribution sequence</h2>
-
-<p>
-  <a href="https://github.com/Randy-RM/github-readme-streak-stats">
-    <img alt="Randy-RM's stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true"/>
-  </a>
-</p>
+    <h2>🔥 My contribution sequence</h2>
+    <p>
+      <a href="https://github.com/Randy-RM/github-readme-streak-stats">
+        <img alt="Randy-RM's stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true"/>
+      </a>
+    </p>
 </div>
 
 ---
@@ -38,11 +42,9 @@
 <h2>🙋‍🤝🏻 Connect with Me</h2>
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     
 <a href="mailto:randymuhema@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-randymuhema@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-
 </p>
 </div>
 
@@ -51,11 +53,13 @@
 <div>
 <h2>👨‍🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Language : JavaScript | PHP | TypeScript
-- 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
-- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
-- 🛢 &nbsp; Database : MySQL | MongoDB | Postgresql
-- 🔧&nbsp; Tools : Git | GitHub | Linux | windows
+<p>
+    - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
+    - 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
+    - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | React Js | React Native | Next Js | Gatsby Js | Jquery | SCSS
+    - 🛢 &nbsp; Database : MySQL | MongoDB | Postgresql
+    - 🔧&nbsp; Tools : Git | GitHub | Linux | windows
+</p>
 </div>
 
 ---
