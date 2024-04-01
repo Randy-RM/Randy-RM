@@ -66,13 +66,13 @@
 <div>
 <h3>📊 GitHub Profile Stats</h3>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide=&count_private=true" /></a>
 </div>
 
 <div>
 <h3>⚡ Most used languages</h3>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&langs_count=10&theme=radical&layout=compact#" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&layout=compact" /></a>
 <br/>
 <b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
 </div>
