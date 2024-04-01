@@ -9,7 +9,9 @@
 </p>
 
 <h2 align="left"> 
-    Hi ! Welcome To My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+    Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+    <br/>
+    Welcome to my GitHub profile
 </h2>
 
 ---
@@ -38,7 +40,7 @@
 ---
 
 <div>
-<h2>🤝 Connect with Me</h2>
+<h2>🤝 Connect with me</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/randy-assani-beni-ab101216b/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -50,7 +52,7 @@
 ---
 
 <div>
-<h2>🧠 Tech Stack</h2>
+<h2>🧠 Tech stack</h2>
 
 - 💻 &nbsp; Language : JavaScript | PHP | TypeScript
 - 👨‍💻 &nbsp; Backend : Node Js | Express Js | Nest Js | PHP | Laravel | Symfony 
@@ -62,10 +64,10 @@
 ---
 
 <div>
-<h2>🔆 Github Stats</h2>
+<h2>🔆 Github stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
-<h3>🚀 GitHub Profile Stats</h3>
+<h3>🚀 GitHub profile stats</h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Randy-RM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide=&count_private=true" /></a>
 </div>
