@@ -66,7 +66,7 @@
 <div>
 <h3>📊 GitHub Profile Stats</h3>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&show_icons=true&count_private=true&include_all_commits=true&hide=&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /></a>
 </div>
 
 <div>
