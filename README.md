@@ -74,8 +74,9 @@
 <h3>⚡ Most used languages</h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Randy-RM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&layout=compact" /></a>
+<br/><br/>
+<b>notice :</b> This graph is only a measure of the languages that make up my public <br/> code on GitHub and does not reflect my experience or skill level.
 <br/>
-<b>notice :</b> This graph is only a measure of the languages that make up my public code on GitHub and does not reflect my experience or skill level.
 </div>
 </div>
 
