@@ -26,12 +26,9 @@
 <h2>🔥 My contribution sequence</h2>
 
 <p>
-    [Randy-RM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true)
-    <!--
   <a href="https://github.com/Randy-RM/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=radical#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true"/>
   </a>
-    -->
 </p>
 </div>
 
